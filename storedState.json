@@ -1,0 +1,50 @@
+{
+  "matches": [
+    {
+      "id": 2,
+      "age": 25,
+      "bio": "Люблю жизнь во всех её проявлениях ✨",
+      "job": "Фотограф",
+      "city": "Москва",
+      "name": "Анна",
+      "height": "165 см",
+      "photos": [
+        "keys/anna_1?prompt=Beautiful%20young%20blonde%20woman%2025%20years%20old%20bohemian%20style%20photographer%20creative%20portrait",
+        "keys/anna_2?prompt=Young%20blonde%20woman%20doing%20yoga%20pose%20peaceful%20studio%20athletic%20wear",
+        "keys/anna_3?prompt=Young%20woman%20traveling%20mountain%20landscape%20backpack%20adventure%20style",
+        "keys/anna_4?prompt=Portrait%20young%20woman%20fashion%20photography%20artistic%20lighting%20modern%20style"
+      ],
+      "distance": 5,
+      "education": "Школа фотографии",
+      "interests": [
+        "Фотография",
+        "Йога",
+        "Путешествия",
+        "Мода",
+        "Искусство"
+      ]
+    }
+  ],
+  "chatMessages": {
+    "2": [
+      {
+        "id": 1752876825157,
+        "text": "Привет! Как ты?",
+        "sender": "user",
+        "timestamp": "2025-07-18T22:13:45.157Z"
+      },
+      {
+        "id": 1752876827160.634,
+        "text": "Приветик! Спасибо за лайк, твой профиль тоже понравился! 💕",
+        "sender": "match",
+        "timestamp": "2025-07-18T22:13:47.160Z"
+      }
+    ]
+  },
+  "likedProfiles": [
+    4,
+    2
+  ],
+  "messageUpdate": 48,
+  "selectedMatch": null
+}
